@@ -643,20 +643,3 @@ input[type=submit].twitter:after {
   text-align: center;
   font-size: 3rem;
 }
-.nav-link{
-  display: flex;
-  margin-left: 120px;
-  margin-top: 15px;
-}
-.nav-link li{
-  margin-right: 15px;
-  margin-bottom: 15px;
-}
-.nav-link li a{
-  text-decoration: none;
-  color:#000;
-  font-family: "haymakerregular"
-}
-.activeNav{
-  font-weight: bold;
-}
